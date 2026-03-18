@@ -1,0 +1,2 @@
+# Guia-3-
+Guia_laboratorio_programacion_cientifica_semana_3
